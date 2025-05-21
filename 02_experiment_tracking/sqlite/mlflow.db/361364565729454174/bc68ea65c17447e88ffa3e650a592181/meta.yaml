@@ -1,0 +1,15 @@
+artifact_uri: /Users/matthiasmotl/neuefische/repositories/dtc/dtc-mlops/02_experiment_tracking/sqlite/mlflow.db/361364565729454174/bc68ea65c17447e88ffa3e650a592181/artifacts
+end_time: 1747390117660
+entry_point_name: ''
+experiment_id: '361364565729454174'
+lifecycle_stage: active
+run_id: bc68ea65c17447e88ffa3e650a592181
+run_name: nebulous-fox-815
+run_uuid: bc68ea65c17447e88ffa3e650a592181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747390114174
+status: 3
+tags: []
+user_id: matthiasmotl

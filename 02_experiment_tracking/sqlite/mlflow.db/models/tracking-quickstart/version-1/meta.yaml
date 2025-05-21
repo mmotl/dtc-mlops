@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747390117657
+current_stage: None
+description: null
+last_updated_timestamp: 1747390117657
+name: tracking-quickstart
+run_id: bc68ea65c17447e88ffa3e650a592181
+run_link: null
+source: /Users/matthiasmotl/neuefische/repositories/dtc/dtc-mlops/02_experiment_tracking/sqlite/mlflow.db/361364565729454174/bc68ea65c17447e88ffa3e650a592181/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: /Users/matthiasmotl/neuefische/repositories/dtc/dtc-mlops/02_experiment_tracking/sqlite/mlflow.db/361364565729454174/bc68ea65c17447e88ffa3e650a592181/artifacts/iris_model
+user_id: null
+version: 1
