@@ -176,5 +176,8 @@ cython_debug/
 #Data folder
 data/
 
+# Data files
+.parquet
+
 # DS_Store
 .DS_Store
