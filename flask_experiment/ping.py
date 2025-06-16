@@ -2,7 +2,7 @@ from flask import Flask
 
 app = Flask('ping') # give an identity to your web service
 
-@app.route('/ping', methods=['GET']) # use decorator to add Flask's functionality to our function
+@app.route('/', methods=['GET']) # use decorator to add Flask's functionality to our function
 def ping():
     return __name__
 
